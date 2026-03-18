@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello My name is Aditya Jha  — A Full Stack Web Developer
+# Hello My Name Is Aditya Jha  — A Full Stack Web Developer
 
 Building scalable, real-world web systems. Full-stack focused on performance, clean architecture, and developer experience.
 
@@ -64,8 +64,10 @@ A visual analytics page that shows your performance over time. It includes a wee
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devadityajha&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devadityajha&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+
 
 </div>
 
