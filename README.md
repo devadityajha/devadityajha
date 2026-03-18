@@ -102,6 +102,9 @@ are not a product.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devadityajha&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=devadityajha&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
+
 </div>
 
 ---
