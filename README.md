@@ -1,12 +1,12 @@
 <div align="center">
 
-# Abhishek — Product Engineer
+# Hello My name is Aditya Jha  — A Full Stack Web Developer
 
 Building scalable, real-world web systems. Full-stack focused on performance, clean architecture, and developer experience.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:you@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://dev-adityajha-portfolio.vercel.app/ )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-jha-237740211)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jhaaditya2508@email.com)
 
 </div>
 
@@ -14,7 +14,7 @@ Building scalable, real-world web systems. Full-stack focused on performance, cl
 
 ## What I Build
 
-I engineer production-grade applications — from real-time monitoring systems to full-stack e-commerce platforms. I care deeply about system design, API reliability, and shipping things that actually work under load.
+I engineer production grade applications - from real-time monitoring systems to full-stack e-commerce platforms. I care deeply about system design, API reliability, and shipping things that actually work under load.
 
 ---
 
@@ -42,20 +42,20 @@ I engineer production-grade applications — from real-time monitoring systems t
 
 ## Featured Projects
 
-### [Tandoor — E-commerce Platform](https://github.com/yourusername/tandoor)
+### [Tandoor — E-commerce Platform](https://aonetandoor-2.vercel.app/)
 Full-stack storefront built with Next.js, Sanity CMS, and Stripe. Features headless CMS content management, optimized image delivery via Cloudinary, and a complete checkout flow.
 `Next.js` `Sanity CMS` `Tailwind CSS` `Stripe` `Vercel`
 
 ---
 
-### [ProctorShield — Real-time Monitoring System](https://github.com/yourusername/proctorshield)
+### [ProctorShield — Real-time Monitoring System](https://secure-stream-ai-detection.vercel.app/)
 Secure exam proctoring system with facial recognition, live session monitoring via WebSockets, and event-based violation detection. Built to handle concurrent sessions at scale.
-`Node.js` `Socket.io` `face-api.js` `MongoDB` `Express`
+`Node.js` `Socket.io` `React` `MongoDB` `Express` `Media Pipe Ai` `Web RTC` `Cloudinary`
 
 ---
 
-### [FeedFlow — Paginated Content Engine](https://github.com/yourusername/feedflow)
-High-performance feed system with advanced filtering, cursor-based pagination, full-text search, and multi-field sorting. Optimized for MongoDB aggregation pipelines.
+### [Hiring - Dashboard - Pro](https://hiring-dashboard-pro.vercel.app/)
+A visual analytics page that shows your performance over time. It includes a weekly applications bar chart, a 30-day trend area chart, a recruiter contact distribution pie chart broken down by status and confidence, an interview funnel showing your pipeline by type, and a pending follow-ups panel with urgency indicators.
 `React` `Express` `MongoDB` `Context API` `REST API`
 
 ---
